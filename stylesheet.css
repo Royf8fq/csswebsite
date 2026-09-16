@@ -1,0 +1,26 @@
+.centre-text {
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+.centre-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.right-image {
+    position: fixed;
+    bottom: 0px;
+    right: 20px;
+    width: 80px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', serif;
+    background-color:rgb(152, 175, 210);
+}
+p {
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px white;
+}
